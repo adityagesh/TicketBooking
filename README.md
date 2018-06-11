@@ -1,4 +1,4 @@
-# TicketBooking
+# Movie Ticket Booking
 Ticket Booking KTU s5  Application Software Development (ASD) Lab Mini Project using Java(JSP) and MySQL
 
 Netbeans IDE
